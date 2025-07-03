@@ -52,17 +52,3 @@ a:hover{
 }
 
 /*ham menu*/
-#ham-nav{
-    display: none;
-}
-.ham-menu{
-    position: relative;
-    display: inline-block;
-}
-.ham-icon{
-    display: flex;
-    flex-direction: column;
-    justify-content: space-between;
-    height: 24px;
-    cursor: pointer;
-}
